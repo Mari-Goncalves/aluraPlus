@@ -1,0 +1,26 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+:root{
+  --white-color: #FFFFFF;
+  --gray-color: #C0C0C0;
+  --blue-color: #167BF7;
+  --black-color: #00030C;
+}
+
+body{
+  background-color: var(--black-color);
+  color: var(--white-color);
+}
+
+.container{
+  height: 100vh;
+}
+
+.banner-content{
+  background-image: url('images/background.png') ;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
