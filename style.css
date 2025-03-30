@@ -1,7 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap");
+
 * {
   padding: 0;
   margin: 0;
   text-decoration: none;
+  font-family: "Inter", sans-serif;
+  font-size: 1rem;
 }
 
 :root {
@@ -31,8 +35,12 @@ body {
 
 .banner-content {
 }
+
 .banner-title {
+  font-weight: 700;
+  font-size: 1.75rem;
 }
+
 .banner-logo {
 }
 
@@ -52,4 +60,5 @@ body {
 .banner-advice {
   color: var(--gray-color);
   text-align: center;
+  font-size: 0.75rem;
 }
