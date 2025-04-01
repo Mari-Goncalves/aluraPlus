@@ -1,0 +1,28 @@
+.product-presentation {
+  align-items: center;
+  margin: 0 15rem;
+}
+
+.product-presentation-title {
+  font-weight: bold;
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+
+.product-presentation-description {
+  font-weight: 200;
+  color: var(--gray-color-secondary);
+}
+
+.product-presentation-image {
+  align-items: center;
+}
+
+.product-presentation-button {
+  display: inline-block;
+  margin-top: 1rem;
+}
+
+.product-presentation-content {
+  padding: 2rem;
+}
