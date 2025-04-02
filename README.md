@@ -8,6 +8,12 @@
 - Flexbox
 - Variáveis de estilo
 - Posicionamento de elementos em tela
+  
+<br>
+
+![image](https://github.com/user-attachments/assets/5f3123bd-f512-41de-b006-79b5abeddd6f)
+![image](https://github.com/user-attachments/assets/7cf6b61d-7ec9-4f59-821f-429ae2bb5df4)
+![image](https://github.com/user-attachments/assets/4a6b8b75-8b82-4648-8632-a16d1f1afa73)
 
 <br>
 
