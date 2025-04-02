@@ -31,15 +31,9 @@ Projeto desenvolvido no curso HTML e CSS: praticando HTML/CSS da empresa Alura.
 **Clone o projeto**
 
 ```bash
-  git clone https://github.com/Mari-Goncalves/html-e-css.git
+  git clone https://github.com/Mari-Goncalves/aluraPlus.git
 ```
 
-**Entre no diretório do projeto**
-
-```bash
-  cd html-e-css
-```
-
-**Visualização no navegador**
+**Visualize no navegador**
 
 Com a extensão "Live server" instalada > clique com o botão direito no arquivo "index.html" > selecione a opção "Open with live server"
