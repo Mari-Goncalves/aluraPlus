@@ -1,5 +1,5 @@
 
-# Alura PLus
+# Alura Plus
 
 Projeto desenvolvido em HTML e CSS com o objetivo de treinar o uso de técnicas como:
 
