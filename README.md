@@ -9,20 +9,20 @@
 - Variáveis de estilo
 - Posicionamento de elementos em tela
 
----
+<br>
 
 ## 📚 Sobre o curso
 
 Este projeto foi desenvolvido no curso **[HTML e CSS: praticando HTML/CSS](https://www.alura.com.br)** da **Alura**, uma plataforma de cursos online.
 
----
+<br>
 
 ## 🛠 Tecnologias utilizadas
 
 - **HTML**
 - **CSS**
 
----
+<br>
 
 ## 💻 Como rodar o projeto localmente
 
