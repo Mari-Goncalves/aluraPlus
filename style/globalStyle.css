@@ -11,9 +11,15 @@
 
 :root {
   --white-color: #ffffff;
+  --white-color-hover: rgba(242, 242, 242, 0.2);
+  --white-color-active: rgba(242, 242, 242, 0.4);
   --gray-color: #c0c0c0;
   --gray-color-secondary: #f9f9f9;
+  --gray-color-secondary-hover: #beb6b6;
+  --gray-color-secondary-active: #a09797;
   --blue-color: #167bf7;
+  --blue-color-hover: #095dc4;
+  --blue-color-active: #034799;
   --black-color: #00030c;
 }
 

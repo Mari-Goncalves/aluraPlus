@@ -28,9 +28,25 @@
   margin-bottom: 1rem;
 }
 
+.banner-button:hover{
+  background-color: var(--blue-color-hover);
+}
+
+.banner-button:active{
+  background-color: var(--blue-color-active);
+}
+
 .secondary {
   background: none;
   border: 2px solid var(--white-color);
+}
+
+.secondary:hover{
+  background-color: var(--white-color-hover);
+
+}
+.secondary:active{
+  background-color: var(--white-color-active);
 }
 
 .banner-advice {
