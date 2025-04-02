@@ -13,7 +13,7 @@
 
 ## 📚 Sobre o curso
 
-Este projeto foi desenvolvido no curso **[HTML e CSS: praticando HTML/CSS](https://www.alura.com.br/)** da **Alura**, uma plataforma de cursos online.
+Este projeto foi desenvolvido no curso **[HTML e CSS: praticando HTML/CSS](https:https://www.alura.com.br/curso-online-html-css-praticando-html-css?srsltid=AfmBOoqCvQW4cR7CzJ44ZqtbE2XUycxN6-71D2i6lmY9-uDTP9qn8qw_)** da **Alura**, uma plataforma de cursos online.
 
 ---
 
